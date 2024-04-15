@@ -1,1 +1,1 @@
-# mac-dev-setup
+# Настройка macOS
